@@ -46,6 +46,7 @@ I like building practical systems - from web automation to GenAI-powered apps.
     Git, GitHub, VS Code, Linux
 
 **🚀 Featured Projects**
+
 🤖 Multi-LLM Idea Discussion App
 
 AI-powered platform where multiple LLMs collaborate on ideas
